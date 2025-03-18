@@ -1,0 +1,7 @@
+app = "tango-tilda-salebot"
+
+[build]
+builder = "paketobuildpacks/builder:base"
+
+[env]
+PYTHON_VERSION = "3.10"
